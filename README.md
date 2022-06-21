@@ -43,10 +43,12 @@ These are for demonstration purposes only.
 - [x] [Tarjan's Strongly Connected Components](./src/graph/strongly_connected_components.rs)
 - [x] [Topological sorting](./src/graph/topological_sort.rs)
 - [x] [Centroid Decomposition](./src/graph/centroid_decomposition.rs)
+- [x] [Dinic's Max Flow](./src/graph/dinic_maxflow.rs)
 
 ## [Math](./src/math)
 - [x] [Baby-Step Giant-Step Algorithm](./src/math/baby_step_giant_step.rs)
 - [x] [Extended euclidean algorithm](./src/math/extended_euclidean_algorithm.rs)
+- [x] [Gaussian Elimination](./src/math/gaussian_elimination.rs)
 - [x] [Greatest common divisor](./src/math/greatest_common_divisor.rs)
 - [x] [Greatest common divisor of n numbers](./src/math/gcd_of_n_numbers.rs)
 - [x] [Least common multiple of n numbers](./src/math/lcm_of_n_numbers.rs)
@@ -55,6 +57,7 @@ These are for demonstration purposes only.
 - [x] [Square root with Newton's method](./src/math/square_root.rs)
 - [x] [Fast power algorithm](./src/math/fast_power.rs)
 - [X] [Perfect number](./src/math/perfect_numbers.rs)
+- [X] [Prime factors](./src/math/prime_factors.rs)
 - [X] [Prime number](./src/math/prime_numbers.rs)
 - [x] [Linear Sieve](./src/math/linear_sieve.rs)
 - [x] [Pollard's Rho algorithm](./src/math/pollard_rho.rs)
@@ -97,6 +100,7 @@ These are for demonstration purposes only.
 - [X] [Stack using Linked List](./src/data_structures/stack_using_singly_linked_list.rs)
 - [x] [Segment Tree](./src/data_structures/segment_tree.rs)
 - [x] [Fenwick Tree](./src/data_structures/fenwick_tree.rs)
+- [x] [Union-find](./src/data_structures/union_find.rs)
 
 ## [Strings](./src/string)
 
@@ -127,6 +131,7 @@ These are for demonstration purposes only.
 - [x] [Exponential](./src/searching/exponential_search.rs)
 - [x] [Jump](./src/searching/jump_search.rs)
 - [x] [Fibonacci](./src/searching/fibonacci_search.rs)
+- [x] [Quick Select](./src/searching/quick_select.rs)
 
 ## [Geometry](./src/geometry)
 
